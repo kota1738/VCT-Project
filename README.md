@@ -1,8 +1,8 @@
 # Investigating Regional Playstyle Differences in Professional Valorant Esports
 
-**Author:** Abdurrahmaan Lakhota | P2799674  
+**Author:** Abdurrahmaan  
 **Module:** CTEC3451 Development Project  
-**Supervisor:** Aisha Badawi  
+**Supervisor:** Aisha  
 **Institution:** De Montfort University  
 
 ---
