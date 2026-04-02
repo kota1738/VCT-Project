@@ -74,7 +74,7 @@ The dataset contains **183 professional players** across four VCT regions: **Ame
 
 ### Google Colab
 Open the notebook directly in Google Colab — the first cell automatically downloads the dataset from GitHub.
-
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kota1738/VCT-Project/blob/master/VCT_Interactive_Explorer.ipynb)
 ---
 
 ## Performance Metrics Explained
