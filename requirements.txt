@@ -1,0 +1,12 @@
+pandas
+matplotlib
+seaborn
+scipy
+numpy
+requests
+beautifulsoup4
+ipywidgets
+scikit-learn
+plotly
+adjustText
+jupyter
