@@ -1,2 +1,24 @@
+# Jupyter
 .ipynb_checkpoints/
+
+# Dissertation (local only)
 dissertation_scaffold.md
+dissertation*.md
+dissertation*.docx
+
+# Contract and personal docs
+00-Project_Contract*.pdf
+00-Project_Contract*.txt
+Guideline.docx
+MEETING*.txt
+Meeting*.txt
+Meeting*.docx
+
+# Claude internal
+.claude/
+
+# Exported CSVs (runtime output, not source data)
+vct_export_*.csv
+
+# Build scripts (local tooling)
+build_dissertation.py
