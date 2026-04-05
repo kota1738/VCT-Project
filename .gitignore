@@ -22,3 +22,6 @@ vct_export_*.csv
 
 # Build scripts (local tooling)
 build_dissertation.py
+patch_dissertation.py
+patch2_dissertation.py
+expand_chapters.py
