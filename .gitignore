@@ -25,3 +25,4 @@ build_dissertation.py
 patch_dissertation.py
 patch2_dissertation.py
 expand_chapters.py
+fix_profile.py
