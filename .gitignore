@@ -39,6 +39,8 @@ patch_colours.py
 patch_notebook_explanations.py
 theme_cell.py
 toc_cell.py
+reorder_and_fix.py
+reorder_export_to_end.py
 
 # Notebook backups
 *.ipynb.bak
