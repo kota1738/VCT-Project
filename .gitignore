@@ -26,3 +26,23 @@ patch_dissertation.py
 patch2_dissertation.py
 expand_chapters.py
 fix_profile.py
+fix_dissertation*.py
+elevate_notebook.py
+elevate_v2.py
+polish.py
+academic_rigor.py
+add_dark_mode.py
+add_player_insights.py
+cleanup_imports.py
+fix_section20.py
+patch_colours.py
+patch_notebook_explanations.py
+theme_cell.py
+toc_cell.py
+
+# Notebook backups
+*.ipynb.bak
+*.ipynb.bak*
+
+# Runtime-generated
+requirements_runtime.txt
