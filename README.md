@@ -28,8 +28,8 @@ The dataset contains **183 professional players** across four VCT regions: **Ame
 
 ## Key Findings
 
-- **KAST%** showed statistically significant regional differences (Kruskal-Wallis: H=23.092, p=0.0000)
-- **HS%** showed statistically significant regional differences (Kruskal-Wallis: H=15.314, p=0.0016)
+- **KAST%** showed statistically significant regional differences (Kruskal-Wallis: H=17.808, p=0.0005)
+- **HS%** showed statistically significant regional differences (Kruskal-Wallis: H=14.538, p=0.0023)
 - **CN** is the most distinct region — significantly lower KAST% than all other regions
 - **Americas** has significantly lower HS% compared to all other regions
 - **Pacific** leads in ACS and KPR — highest raw fragging output
